@@ -519,12 +519,12 @@ All errors
 ----------
 
 
-- [Error #1 Reference not found](#todo)
-- [Error #2 Allow non scalar injection forbidden by configuration](#todo)
-- [Error #3 Cannot inject non-scalar into a string](#todo)
-- [Error #4 Deep level: allow non-scalar injection forbidden by configuration](#todo)
-- [Error #5 Deep level: cannot inject non-scalar into a string](#todo)
-- [Error #6 Circular reference](#todo)
+- [Error #1 Reference not found](#error-1-reference-not-found)
+- [Error #2 Allow non scalar injection forbidden by configuration](#error-2-allow-non-scalar-injection-forbidden-by-configuration)
+- [Error #3 Cannot inject non-scalar into a string](#error-3-cannot-inject-non-scalar-into-a-string)
+- [Error #4 Deep level: allow non-scalar injection forbidden by configuration](#error-4-deep-level-allow-non-scalar-injection-forbidden-by-configuration)
+- [Error #5 Deep level: cannot inject non-scalar into a string](#error-5-deep-level-cannot-inject-non-scalar-into-a-string)
+- [Error #6 Circular reference](#error-6-circular-reference)
 
 
 
