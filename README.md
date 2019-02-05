@@ -26,7 +26,7 @@ Or just download it and place it where you want otherwise.
 Summary
 =======
 
-- [How to](how-to)
+- [How to](#how-to)
 - [Implementation](#implementation)
 
 
