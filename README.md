@@ -88,7 +88,7 @@ Implementation
 The following implementations are available:
 
 
-- [ArrayTagResolver](https://github.com/lingtalfi/ArrayRefResolver/blob/master/ArrayTagResolver.md)
+- [ArrayTagResolver](https://github.com/karayabin/universe-snapshot/blob/master/universe/ArrayRefResolver/ArrayTagResolver.md)
 
 
 
