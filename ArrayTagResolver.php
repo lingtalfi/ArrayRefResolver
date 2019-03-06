@@ -1,12 +1,12 @@
 <?php
 
 
-namespace ArrayRefResolver;
+namespace Ling\ArrayRefResolver;
 
 
-use ArrayRefResolver\Exception\ArrayTagDeepErrorException;
-use ArrayToString\ArrayToStringTool;
-use Bat\BDotTool;
+use Ling\ArrayRefResolver\Exception\ArrayTagDeepErrorException;
+use Ling\ArrayToString\ArrayToStringTool;
+use Ling\Bat\BDotTool;
 
 /**
  * The ArrayTagResolver class provides a simple mechanism to resolve tags in an array recursively.

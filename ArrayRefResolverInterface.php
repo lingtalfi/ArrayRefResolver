@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ArrayRefResolver;
+namespace Ling\ArrayRefResolver;
 
 
 /**

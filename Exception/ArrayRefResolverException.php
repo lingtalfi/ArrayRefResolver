@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ArrayRefResolver\Exception;
+namespace Ling\ArrayRefResolver\Exception;
 
 
 /**

@@ -179,7 +179,7 @@ array(1) {
 The bdot notation example
 -------------------------
 
-We can access array deep levels using the [bdot notation](https://github.com/karayabin/universe-snapshot/blob/master/universe/Bat/doc/bdot-notation.md).
+We can access array deep levels using the [bdot notation](https://github.com/karayabin/universe-snapshot/blob/master/universe/Ling/Bat/doc/bdot-notation.md).
 
 
 ```php

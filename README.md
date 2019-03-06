@@ -16,7 +16,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import ArrayRefResolver
+uni import Ling/ArrayRefResolver
 ```
 
 Or just download it and place it where you want otherwise.
@@ -88,7 +88,7 @@ Implementation
 The following implementations are available:
 
 
-- [ArrayTagResolver](https://github.com/karayabin/universe-snapshot/blob/master/universe/ArrayRefResolver/ArrayTagResolver.md)
+- [ArrayTagResolver](https://github.com/karayabin/universe-snapshot/blob/master/universe/Ling/ArrayRefResolver/ArrayTagResolver.md)
 
 
 
